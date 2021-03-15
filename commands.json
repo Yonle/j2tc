@@ -1,0 +1,4 @@
+{
+  "help": "Command: `ping`, `help`",
+  "ping": "eval:message.say(`Pong!`);"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "j2tc",
+  "version": "0.0.0",
+  "description": "A simple and very mind blowing repo that you never-ever seen before.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yonle/j2tc.git"
+  },
+  "keywords": [
+    "simpletelegram",
+    "telegramsimple",
+    "easybot",
+    "easytelegrambot",
+    "easy-telegram-bot",
+    "json"
+  ],
+  "author": "Yonle",
+  "license": "DBAD",
+  "bugs": {
+    "url": "https://github.com/Yonle/j2tc/issues"
+  },
+  "homepage": "https://github.com/Yonle/j2tc#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^4.2.1"
+  }
+}
