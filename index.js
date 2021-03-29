@@ -22,7 +22,7 @@ var refreshCommand = (() => {
 });
 
 if (!BOT_TOKEN) {
-	console.log("[TOKEN] Missing Token.");
+	console.error("[TOKEN] Missing Token.");
 	process.exit(1);
 }
 var bot = new Telegraf(BOT_TOKEN);
