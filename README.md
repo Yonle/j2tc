@@ -4,8 +4,7 @@ If you we're buy a code that simillar with this repo, Maybe you have been deceiv
 Maybe that's all, Hope you enjoy this code.
 
 # j2tc
-A simple and very mind blowing repo that you never-ever seen before.
-
+A repo that let's you make a Telegram bots in very easiest way.
 # Setup
 ```
 git clone https://github.com/Yonle/j2tc.git
@@ -27,6 +26,11 @@ It's very easy to use this project and run it at your bots. Simply modify `comma
 ```
 ## ✨ Magic
 You can execute codes by entering `eval:` before javascript code.
+```js
+{
+  "latency": "eval: message.say('This is a command that executed with javascript code')"
+}
+```
 ## Community
 - [Discord](https://quickstream.yonle.repl.co/discord)
 - [Telegram](https://t.me/yonlecoder)
