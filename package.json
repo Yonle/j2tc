@@ -4,6 +4,7 @@
   "description": "A repo that let's you make a Telegram bots in very easiest way.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
