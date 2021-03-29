@@ -1,7 +1,7 @@
 {
   "name": "j2tc",
   "version": "0.0.0",
-  "description": "A simple and very mind blowing repo that you never-ever seen before.",
+  "description": "A repo that let's you make a Telegram bots in very easiest way.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
