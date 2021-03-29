@@ -28,7 +28,7 @@ It's very easy to use this project and run it at your bots. Simply modify `comma
 You can execute codes by entering `eval:` before javascript code.
 ```js
 {
-  "latency": "eval: message.say('This is a command that executed with javascript code')"
+  "Test": "eval: message.say('This is a command that executed with javascript code')"
 }
 ```
 ## Community
